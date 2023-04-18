@@ -1,0 +1,32 @@
+.search-container {
+    margin: auto;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+ 
+form {
+    padding-left: 40%;
+    border-bottom: purple;
+}
+
+
+ input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    border-bottom: purple 2px solid;
+  }
+  
+.search-container button {
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: purple;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
